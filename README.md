@@ -1,1 +1,3 @@
-My first readme
+alx is cool
+alx is superb
+
